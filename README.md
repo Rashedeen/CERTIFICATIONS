@@ -10,23 +10,13 @@ A curated collection of my completed certifications in cybersecurity.
 - Recognized platforms
 - Continuous learning mindset
 
----
-
 ## Cisco Cyberops Associate
-- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
+
+![Cyberops](Photo/CyberOps_Associate.jpg)
+
 
 
 ## Cisco Intro To Cybersecurity
-- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
 
+![Intro To Cyber](Photo/Cisco_Intro_To_Cybersecurity.jpg)
 
-## Mastercard Cybersecurity Virtual Program
-- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
-
-
-## CommonWealth Bank Cybersecurity Virtual Program
-- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
-
-
-## Telstra Cybersecurity Virtual Program 
-- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
