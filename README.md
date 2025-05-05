@@ -12,10 +12,21 @@ A curated collection of my completed certifications in cybersecurity.
 
 ---
 
+## Cisco Cyberops Associate
+- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
+
+
+## Cisco Intro To Cybersecurity
+- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
+
+
 ## Mastercard Cybersecurity Virtual Program
 - [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
 
 
-## 🌐 Networking
-- [Cisco Packet Tracer - Network Fundamentals](networking/packet_tracer_fundamentals.pdf)
-- [CCNA Prep Course](networking/ccna_prep.pdf)
+## CommonWealth Bank Cybersecurity Virtual Program
+- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
+
+
+## Telstra Cybersecurity Virtual Program 
+- [Security Onion - Threat Hunting Fundamentals](Photo/Ma)
