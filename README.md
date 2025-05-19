@@ -1,6 +1,6 @@
 # Certifications 
 
-A curated collection of my completed certifications in cybersecurity.
+A curated collection of my completed certifications in my learning.
 
 ---
 
