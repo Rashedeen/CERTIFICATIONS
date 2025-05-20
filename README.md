@@ -1,6 +1,6 @@
 # Certifications 
 
-A curated collection of my completed certifications in my learning.
+A curated collection of my completed certifications and training in my learning.
 
 ---
 
